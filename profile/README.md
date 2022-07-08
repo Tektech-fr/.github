@@ -10,3 +10,5 @@ The purpose is to share our projects ideas to stop code solo and move faster.
 - When collaborators are found, write as fast as possible a Proof Of Concept.
 
 # Finding (~~Carter~~) Collaborators
+
+On Discord, reach the "Tek Tech" server and ask for a text channel.

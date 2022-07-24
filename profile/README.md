@@ -12,3 +12,9 @@ The purpose is to share our projects ideas to stop code solo and move faster.
 # Finding (~~Carter~~) Collaborators
 
 On Discord, reach the "Tek Tech" server and ask for a text channel.
+
+
+# (~~Schindler's~~) Projects List
+
+- Template Fullstack React/Express
+- Template Fullstack React/Symfony (to do)
